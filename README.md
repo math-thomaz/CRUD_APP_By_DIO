@@ -23,5 +23,5 @@ net5.0
 ## Back end
 Pré-requisitos: net5.0
 
-## Execute o projeto:
+## Run it by typing the following command:
 dotnet run

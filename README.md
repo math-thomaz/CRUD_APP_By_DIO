@@ -21,7 +21,7 @@ net5.0
 
 ```bash
 ## Back end
-Pré-requisitos: net5.0
+Prerequisites: net5.0
 
 ## Run it by typing the following command:
 dotnet run

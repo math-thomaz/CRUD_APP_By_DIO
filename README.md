@@ -14,10 +14,8 @@ The application is very intuitive. Just run it and follow the instructions along
 
 # Techs Used
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+C#
+net5.0
 
 # How to Run
 
